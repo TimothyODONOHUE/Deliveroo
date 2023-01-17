@@ -1,0 +1,18 @@
+body {
+    background-color: #00c1b2;
+    margin:0;
+    padding:0;
+    }
+
+.logoimg {
+
+height: 50px;
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
